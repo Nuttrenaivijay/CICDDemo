@@ -4,7 +4,7 @@
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 USER $APP_UID
 WORKDIR /app
-EXPOSE 9090
+EXPOSE 8082
 EXPOSE 8081
 
 # This stage is used to build the service project
@@ -27,6 +27,7 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 
-# Set the app to listen on port 9090
-ENV ASPNETCORE_URLS=http://+:9090
+# Set the app to listen on port 8082
+ENV ASPNETCORE_URLS=http://+:8082
 
+ENTRYPOINT ["dotnet", "PipelineDemo.dll"]
