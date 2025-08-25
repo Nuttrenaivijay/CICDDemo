@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Jenkins\\PipelineDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8DFCC4A-A995-48DD-9DE5-FF6B220AB071}|PipelineDemo\\PipelineDemo.csproj|d:\\jenkins\\pipelinedemo\\pipelinedemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E8DFCC4A-A995-48DD-9DE5-FF6B220AB071}|PipelineDemo\\PipelineDemo.csproj|solutionrelative:pipelinedemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8DFCC4A-A995-48DD-9DE5-FF6B220AB071}|PipelineDemo\\PipelineDemo.csproj|d:\\jenkins\\pipelinedemo\\pipelinedemo\\pipelinedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E8DFCC4A-A995-48DD-9DE5-FF6B220AB071}|PipelineDemo\\PipelineDemo.csproj|solutionrelative:pipelinedemo\\pipelinedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PipelineDemo",
-              "DocumentMoniker": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\PipelineDemo.csproj",
-              "RelativeDocumentMoniker": "PipelineDemo\\PipelineDemo.csproj",
-              "ToolTip": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\PipelineDemo.csproj*",
-              "RelativeToolTip": "PipelineDemo\\PipelineDemo.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-25T06:26:43.067Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -56,19 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\Dockerfile",
-              "RelativeDocumentMoniker": "PipelineDemo\\Dockerfile",
-              "ToolTip": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\Dockerfile",
-              "RelativeToolTip": "PipelineDemo\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-25T06:33:07.712Z",
+              "Title": "PipelineDemo.csproj",
+              "DocumentMoniker": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\PipelineDemo.csproj",
+              "RelativeDocumentMoniker": "PipelineDemo\\PipelineDemo.csproj",
+              "ToolTip": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\PipelineDemo.csproj",
+              "RelativeToolTip": "PipelineDemo\\PipelineDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T06:26:43.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PipelineNUnit.csproj",
               "DocumentMoniker": "D:\\Jenkins\\PipelineDemo\\PipelineNUnit\\PipelineNUnit.csproj",
               "RelativeDocumentMoniker": "PipelineNUnit\\PipelineNUnit.csproj",
@@ -81,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PipelineNUnit.cs",
               "DocumentMoniker": "D:\\Jenkins\\PipelineDemo\\PipelineNUnit\\PipelineNUnit.cs",
               "RelativeDocumentMoniker": "PipelineNUnit\\PipelineNUnit.cs",
@@ -89,8 +72,7 @@
               "RelativeToolTip": "PipelineNUnit\\PipelineNUnit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:17:52.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:17:52.345Z"
             }
           ]
         },
