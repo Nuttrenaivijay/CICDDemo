@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1jOtppx1Xlk=",
+  "dgSpecHash": "HgcybJ1dsmg=",
   "success": true,
   "projectFilePath": "D:\\Jenkins\\PipelineDemo\\PipelineDemo\\PipelineDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nuttrenai.v\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
   "logs": []
 }

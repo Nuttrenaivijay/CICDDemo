@@ -1,0 +1,9 @@
+b
+WD:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.RazorAssemblyInfo.csutf-8]
+RD:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.AssemblyInfo.csutf-8o
+dD:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8_
+TD:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.GlobalUsings.g.csutf-88
+/D:\Jenkins\PipelineDemo\PipelineDemo\Program.csutf-8E
+<D:\Jenkins\PipelineDemo\PipelineDemo\Pages\Privacy.cshtml.csutf-8C
+:D:\Jenkins\PipelineDemo\PipelineDemo\Pages\Error.cshtml.csutf-8C
+:D:\Jenkins\PipelineDemo\PipelineDemo\Pages\Index.cshtml.csutf-8

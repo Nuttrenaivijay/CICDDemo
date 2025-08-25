@@ -25,9 +25,9 @@ D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\staticwebassets.build.json
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\staticwebassets.development.json
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.dll
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\refint\PipelineDemo.dll
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.pdb
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.genruntimeconfig.cache
 D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\ref\PipelineDemo.dll
+D:\Jenkins\PipelineDemo\PipelineDemo\obj\Debug\net8.0\PipelineDemo.sourcelink.json

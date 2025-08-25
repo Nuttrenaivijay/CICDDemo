@@ -1,0 +1,1 @@
+NR8D:\Jenkins\PipelineDemo\PipelineDemo\PipelineDemo.csproj¢net8.0òCSharp12

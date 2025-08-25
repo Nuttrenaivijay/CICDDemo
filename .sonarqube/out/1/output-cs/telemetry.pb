@@ -1,0 +1,1 @@
+PR:D:\Jenkins\PipelineDemo\PipelineNUnit\PipelineNUnit.csproj¢net8.0òCSharp12

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PipelineNUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0958cd975dbccf294486deb3efb5c7f4969c1419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0392b2f1c8a57fe4097c3c65f14896a44701da")]
 [assembly: System.Reflection.AssemblyProductAttribute("PipelineNUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PipelineNUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
